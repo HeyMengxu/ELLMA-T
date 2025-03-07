@@ -26,7 +26,7 @@ This package contains a simple **participant check-in system** consisting of:
 
 ## 2🚀 Run the Backend
 
-1. **Ensure JDK 8 is installed**. If needed, unzip and use `jdk-8.zip`.
+1. **Ensure JDK 8 is installed**. Do this in your IDE or download it manually at https://www.oracle.com/jp/java/technologies/javase/javase8-archive-downloads.html.
 2. **Open a command line** (CMD or Terminal).
 3. **Navigate to the folder** containing the `.jar` file.
 4. **Run the backend using**:
