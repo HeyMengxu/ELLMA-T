@@ -1,5 +1,10 @@
 # ELLMA-T
-An ECA that leverages an LLM (GPT-4) and situated learning framework for supporting learning English language in social VR (VRChat). 
+This project is currently under development...
+<img width="1040" alt="Screen Shot 2025-03-18 at 18 27 27" src="https://github.com/user-attachments/assets/eb95e906-b2d5-4197-b8c3-c724fa27a9b6" />
+
+
+
+ELLMA-T is an Embodied Conversational Agent(ECA) that leverages an LLM (GPT-4) and situated learning framework for supporting learning English language in social VR (VRChat). 
 
 [Arxiv](https://arxiv.org/abs/2410.02406)
 
